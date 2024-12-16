@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 # 📖 Educations
 - Graduated Gyeongwon Middle School | 2022-2024
 - Currently attending Banpo High School | 2025-2027
+
+# 📞 Contact
+- Mail : dayspring0607@gmail.com
+- Discord : make_your_wxsh
