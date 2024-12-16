@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi there!
+# 👋 Hi there!
 
 🏫 I'm a Korean student developer interested in AI technology.
 
-## 📖 Educations
+# 📖 Educations
 - Graduated Gyeongwon Middle School | 2022-2024
 - Currently attending Banpo High School | 2025-2027
