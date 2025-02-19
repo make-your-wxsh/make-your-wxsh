@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi there!
 
-🏫 I'm a Korean student developer interested in AI technology.
+🏫 I'm a Korean student interested in Neuroscience and AI technology.
 
 # 📖 Educations
 - Graduated Gyeongwon Middle School | 2022-2024
